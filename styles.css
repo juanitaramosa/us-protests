@@ -1,0 +1,15 @@
+body {
+    font: georgia, serif;
+}
+
+figcaption {
+    color: gray;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+footer {
+    color: gray;
+}
